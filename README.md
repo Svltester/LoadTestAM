@@ -1,2 +1,2 @@
 # LoadTestAM
-Sample Load tests for product with Python-Locust (FastHTTP client)
+Sample Load tests with Python-Locust (FastHTTP client)
